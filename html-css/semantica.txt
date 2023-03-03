@@ -1,0 +1,3 @@
+Listas:
+ul - Não tem importância a ordem dos elementos
+ol - Tem importância, por isso ele se encarrega de numerar a lista.
